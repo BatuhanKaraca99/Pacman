@@ -23,6 +23,10 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6329691197890099652, guid: 1a873760f0b1ae647a3874def6f0ed19, type: 3}
+      propertyPath: duration
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7570059132090675737, guid: 1a873760f0b1ae647a3874def6f0ed19, type: 3}
       propertyPath: initialDirection.y
       value: -1
