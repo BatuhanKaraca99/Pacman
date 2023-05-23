@@ -177,6 +177,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5262752338063769482, guid: ede05e48cd633894b94f192251e036d3, type: 3}
+      propertyPath: speed
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 5262752338063769483, guid: ede05e48cd633894b94f192251e036d3, type: 3}
       propertyPath: target
       value: 
@@ -6117,6 +6121,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2502493106239772762, guid: 3bf4722c068defe49a5bcc205ae4dac5, type: 3}
+      propertyPath: duration
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 6807053737284537760, guid: 3bf4722c068defe49a5bcc205ae4dac5, type: 3}
       propertyPath: m_Name
       value: Ghost_Clyde

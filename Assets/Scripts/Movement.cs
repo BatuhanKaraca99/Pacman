@@ -7,6 +7,7 @@ public class Movement : MonoBehaviour
     public float speedMultiplier = 1.0f;
     public Vector2 initialDirection;
     public LayerMask obstacleLayer; //selectively choose which layer we want to raycast
+   
     public new Rigidbody2D rigidbody { get; private set; }
     public Vector2 direction { get; private set; }
     public Vector2 nextDirection { get; private set; }
